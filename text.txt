@@ -1,3 +1,4 @@
 Plik testowy - pierwszy wpis 27.05.2020 godzina 13.24.
 Plik testowy - drugi wpis - modyfikacje 27.05.2020 godzina 13.28
 Plik testowy - trzeci wpis
+Plike testowy - ostatni wpis kontrolny
